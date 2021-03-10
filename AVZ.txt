@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 Modificacion archivo velez
+=======
+Esto se va a hacer mierda
+>>>>>>> a61fbcd1d5a691283faf2b8cd389dfad93ee5958
 Esta no es la historia de alepaper
 holo andres !!
 holis
